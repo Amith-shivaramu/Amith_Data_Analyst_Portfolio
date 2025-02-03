@@ -39,5 +39,5 @@ My CV in Pdf[  ]()
 
 ## CERTIFICATIONS / INTERNSHIPS.
 
-   -[DATA ANALYST CERTIFICATE](https://learn.365datascience.com/c/746eeb9ef0/)
+   -[DATA ANALYST CERTIFICATE](https://learn.365datascience.com/c/746eeb9ef0/) 
 
