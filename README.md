@@ -12,4 +12,4 @@ My CV in Pdf[  ]()
 
 ## TABLE OF CONTENTS
 
--[ABOUT]( )
+-[ABOUT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#about)
