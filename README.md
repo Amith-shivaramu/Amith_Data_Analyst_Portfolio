@@ -12,7 +12,8 @@ My CV in Pdf[  ]()
 
 ## TABLE OF CONTENTS
 
--[ABOUT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#about)
+-[ABOUT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#about).
+
 -[PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#projects)
 
 ## PROJECTS
