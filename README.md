@@ -1,4 +1,4 @@
-# Amith_DataAnalyst_Portfolio
+# Amith S --DataAnalyst_Portfolio--
 
 ## ABOUT
 
@@ -7,3 +7,9 @@
 In my role as an SQL Developer, I have refined my technical abilities by optimizing SQL queries, stored procedures, and functions to enhance database performance. I have designed and maintained relational databases, ensuring data integrity and efficiency. My experience includes creating complex reports using SQL, views, and CTEs for business intelligence. I have also worked on indexing, partitioning, and query tuning to improve efficiency. Additionally, I have automated data workflows using SQL Server Integration Services (SSIS) and collaborated with developers to integrate SQL solutions into applications.
 
 Also Skilled in data analysis tools like SQL, Python, Excel, and Power BI.Experienced in overview complex queries to extract and manipulate data efficiently.Developed insightful data visualizations to support decision-making.Strong analytical skills and problem-solving capabilities through data-driven projects.Passionate about manipulating data to uncover meaningful insights.
+
+My CV in Pdf[  ]()
+
+## TABLE OF CONTENTS
+
+-[ABOUT]( )
