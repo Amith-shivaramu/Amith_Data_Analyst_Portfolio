@@ -41,5 +41,5 @@ My CV in Pdf[  ]()
 
    -[DATA ANALYST CERTIFICATE](https://learn.365datascience.com/c/746eeb9ef0/) 
    
-   -[DATA ANALYTICS ESSENTIALS CERTIFICATE]("C:\Users\Admin\Downloads\Data_Analytics_Essentials_certificate_amithshivaramu27-gmail-com_66324ca5-f5d7-4878-95d6-79ff9b8cd976.pdf")
+   -[DATA ANALYTICS ESSENTIALS CERTIFICATE]("https://www.netacad.com/certificates?issuanceId=66324ca5-f5d7-4878-95d6-79ff9b8cd976")
 
