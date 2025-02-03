@@ -15,9 +15,13 @@ My CV in Pdf[  ]()
 -[ABOUT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#about).
 
 -[PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#projects)
+
     * SQL
+    
     * PYTHON
+    
     * POWER BI
+    
     * EXCEL
 
 ## PROJECTS
