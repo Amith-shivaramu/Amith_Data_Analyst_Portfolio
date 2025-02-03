@@ -26,7 +26,7 @@ My CV in Pdf[  ]()
 
  -[EDUCATION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#education)
 
- -[CERTIFICATIONS]
+ -[CERTIFICATIONS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#certifications--internships)
 
 ## PROJECTS
 
