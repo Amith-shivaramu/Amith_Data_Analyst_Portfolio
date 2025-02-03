@@ -13,6 +13,6 @@ My CV in Pdf[  ]()
 ## TABLE OF CONTENTS
 
 -[ABOUT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#about)
--[PROJECT]()
+-[PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#projects)
 
 ## PROJECTS
