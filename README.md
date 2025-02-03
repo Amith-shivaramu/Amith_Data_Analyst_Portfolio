@@ -24,12 +24,12 @@ My CV in Pdf[  ]()
     
     * EXCEL
 
- -[EDUCATION]
+ -[EDUCATION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#education)
 
 ## PROJECTS
 
 
-## Education.
+## EDUCATION.
 
    ** SBRR Mahajana First Grade College, Mysore(University of Mysore)- MCA, Oct - 2018 to Sep - 2021**
  
