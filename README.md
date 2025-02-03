@@ -40,4 +40,6 @@ My CV in Pdf[  ]()
 ## CERTIFICATIONS / INTERNSHIPS.
 
    -[DATA ANALYST CERTIFICATE](https://learn.365datascience.com/c/746eeb9ef0/) 
+   
+   -[DATA ANALYTICS ESSENTIALS CERTIFICATE](https://www.netacad.com/certificates?issuanceId=66324ca5-f5d7-4878-95d6-79ff9b8cd976)
 
