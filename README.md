@@ -14,7 +14,7 @@ My CV in Pdf[  ]()
 
 -[ABOUT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#about).
 
--[PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#projects)
+-[PROJECTS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#projects)
 
     * SQL
     
@@ -24,4 +24,14 @@ My CV in Pdf[  ]()
     
     * EXCEL
 
+ -[EDUCATION]
+
 ## PROJECTS
+
+
+## Education.
+
+   ** SBRR Mahajana First Grade College, Mysore(University of Mysore)- MCA, Oct - 2018 to Sep - 2021**
+ 
+   ** PES College of Science, Arts, and Commerce, Mandya(University of Mysore)- BSc (Computer Science), Jul - 2015 to May - 2018**
+
