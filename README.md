@@ -26,12 +26,16 @@ My CV in Pdf[  ]()
 
  -[EDUCATION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#education)
 
+ -[CERTIFICATIONS]
+
 ## PROJECTS
 
 
 ## EDUCATION.
 
-   ** SBRR Mahajana First Grade College, Mysore(University of Mysore)- MCA, Oct - 2018 to Sep - 2021**
+   ** SBRR Mahajana First Grade College, Mysore(University of Mysore)- MCA, Oct - 2018 to Sep - 2021 **
  
-   ** PES College of Science, Arts, and Commerce, Mandya(University of Mysore)- BSc (Computer Science), Jul - 2015 to May - 2018**
+   ** PES College of Science, Arts, and Commerce, Mandya(University of Mysore)- BSc (Computer Science), Jul - 2015 to May - 2018 **
+
+## CERTIFICATIONS / INTERNSHIPS.
 
