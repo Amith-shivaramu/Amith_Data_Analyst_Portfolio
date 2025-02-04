@@ -15,8 +15,11 @@ My CV in Pdf[  ]()
 -[ABOUT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#about).
 
 -[PROJECTS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#projects)
+
     - SQL
+    
     - PYTHON
+    
         - [DATA CLEANING IN PYTHON PANDAS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#python)
     
     - POWER BI
@@ -31,7 +34,7 @@ My CV in Pdf[  ]()
 
 ## PYTHON
 
--[Data Cleaning](http://localhost:8888/lab/tree/Data%20Cleaning%20pandas.ipynb)
+-[DATA CLEANING IN PANDAS](http://localhost:8888/lab/tree/Data%20Cleaning%20pandas.ipynb)
 
 
 ## EDUCATION.
