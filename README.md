@@ -16,15 +16,15 @@ My CV in Pdf[  ]()
 
 -[PROJECTS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#projects)
 
-    - SQL
+  -SQL
+  
+  -PYTHON
     
-    - PYTHON
+   -[DATA CLEANING IN PYTHON PANDAS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#python)
     
-        - [DATA CLEANING IN PYTHON PANDAS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#python)
+  -POWER BI
     
-    - POWER BI
-    
-    - EXCEL
+  -EXCEL
 
  -[EDUCATION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#education)
 
