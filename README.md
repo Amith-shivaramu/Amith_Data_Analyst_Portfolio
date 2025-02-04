@@ -36,7 +36,7 @@ My CV in Pdf[  ]()
 
 ## PYTHON
 
--[DATA CLEANING IN PANDAS](http://localhost:8888/lab/tree/Data%20Cleaning%20pandas.ipynb)
+-[DATA CLEANING IN PANDAS](file:///C:/Users/Admin/Downloads/Data%20Cleaning%20pandas.html)
 
 
 ## EDUCATION.
