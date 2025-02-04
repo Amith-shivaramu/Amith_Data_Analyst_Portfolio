@@ -32,7 +32,7 @@ My CV in Pdf[  ]()
 
 ## PROJECTS
 
-**PYTHON
+## PYTHON
 
 -[Data Cleaning](http://localhost:8888/lab/tree/Data%20Cleaning%20pandas.ipynb)
 
