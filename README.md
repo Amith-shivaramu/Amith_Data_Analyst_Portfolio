@@ -20,7 +20,7 @@ My CV in Pdf[  ]()
     
     **PYTHON
 
-       -[DATA CLEANING IN PYTHON PANDAS](http://localhost:8888/lab/tree/Data%20Cleaning%20pandas.ipynb)
+       -[DATA CLEANING IN PYTHON PANDAS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#python)
     
     **POWER BI
     
