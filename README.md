@@ -12,19 +12,16 @@ My CV in Pdf[  ]()
 
 ## TABLE OF CONTENTS
 
--[ABOUT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#about).
-
--[PROJECTS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#projects)
-
-  -SQL
-  
-  -PYTHON
-    
-   -[DATA CLEANING IN PYTHON PANDAS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#python)
-    
-  -POWER BI
-    
-  -EXCEL
+- [About](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#projects)
+  - PYTHON
+    - [DATA CLEANING IN PYTHON PANDAS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#python)
+    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+  - SQL
+    - [Covid 19 Data Exploration]
+    - [Nashville Housing Data Cleaning]
+  - Excel / Google Sheets
+  - Power BI
 
  -[EDUCATION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#education)
 
