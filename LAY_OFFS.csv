@@ -1,0 +1,101 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions
+"E Inc.",TORONTO,Transportation,NULL,NULL,2022-12-16,Post-IPO,Canada,NULL
+"Included Health","SF BAY AREA",Healthcare,NULL,0.06,2022-07-25,"Series E","United States",272
+&Open,DUBLIN,Marketing,9,0.09,2022-11-17,"Series A",Ireland,35
+#Paid,TORONTO,Marketing,19,0.17,2023-01-27,"Series B",Canada,21
+"100 Thieves","LOS ANGELES",Consumer,12,NULL,2022-07-13,"Series C","United States",120
+"100 Thieves","LOS ANGELES",Retail,NULL,NULL,2023-01-10,"Series C","United States",120
+"10X Genomics","SF BAY AREA",Healthcare,100,0.08,2022-08-04,Post-IPO,"United States",242
+1stdibs,"NEW YORK CITY",Retail,70,0.17,2020-04-02,"Series D","United States",253
+2TM,"SAO PAULO",crypto,90,0.12,2022-06-01,Unknown,Brazil,250
+2TM,"SAO PAULO",crypto,100,0.15,2022-09-01,Unknown,Brazil,250
+2U,"WASHINGTON D.C.",Education,NULL,0.2,2022-07-28,Post-IPO,"United States",426
+54gene,"WASHINGTON D.C.",Healthcare,95,0.3,2022-08-29,"Series B","United States",44
+"5B Solar",SYDNEY,Energy,NULL,0.25,2022-06-03,"Series A",Australia,12
+6sense,"SF BAY AREA",Sales,150,0.1,2022-10-12,"Series E","United States",426
+"80 Acres Farms",CINCINNATI,Food,NULL,0.1,2023-01-18,Unknown,"United States",275
+8x8,"SF BAY AREA",Support,155,0.07,2023-01-18,Post-IPO,"United States",253
+8x8,"SF BAY AREA",Support,200,0.09,2022-10-04,Post-IPO,"United States",253
+98point6,SEATTLE,Healthcare,NULL,0.1,2022-07-21,"Series E","United States",247
+99,"SAO PAULO",Transportation,75,0.02,2022-09-20,Acquired,Brazil,244
+Abra,"SF BAY AREA",crypto,12,0.05,2022-06-30,"Series C","United States",106
+Absci,VANCOUVER,Healthcare,40,NULL,2022-08-09,Post-IPO,"United States",237
+Acast,STOCKHOLM,Media,70,0.15,2022-09-15,Post-IPO,Sweden,126
+Accolade,SEATTLE,Healthcare,NULL,NULL,2023-03-03,Post-IPO,"United States",458
+Acko,MUMBAI,Finance,45,0.09,2020-04-01,Unknown,India,143
+Acorns,PORTLAND,Finance,50,NULL,2020-05-26,Unknown,"United States",207
+Actifio,BOSTON,Data,54,NULL,2020-12-16,Acquired,"United States",352
+ActiveCampaign,CHICAGO,Marketing,NULL,0.15,2022-10-03,"Series C","United States",360
+Ada,TORONTO,Support,NULL,NULL,2023-02-01,"Series C",Canada,190
+Ada,TORONTO,Support,78,0.16,2022-09-20,"Series C",Canada,190
+"Ada Health",BERLIN,Healthcare,50,NULL,2022-10-17,"Series B",Germany,189
+"Ada Support",TORONTO,Support,36,0.23,2020-04-24,"Series B",Canada,60
+"Adaptive Biotechnologies",SEATTLE,Healthcare,100,0.12,2022-03-08,Post-IPO,"United States",406
+Adara,"SF BAY AREA",Travel,NULL,NULL,2020-03-31,"Series C","United States",67
+Addepar,"SF BAY AREA",Finance,20,0.03,2023-01-18,"Series F","United States",491
+Addi,BOGOTA,Finance,NULL,NULL,2022-06-14,"Series C",Colombia,376
+Adobe,"SF BAY AREA",Marketing,100,NULL,2022-12-06,Post-IPO,"United States",2
+AdRoll,"SALT LAKE CITY",Marketing,210,0.3,2020-03-31,"Series C","United States",89
+Advata,SEATTLE,Healthcare,32,0.21,2022-10-28,NULL,"United States",NULL
+Adwerx,DURHAM,Marketing,40,NULL,2022-07-07,Unknown,"United States",20
+Affirm,"SF BAY AREA",Finance,NULL,0.01,2022-11-03,Post-IPO,"United States",1500
+Affirm,"SF BAY AREA",Finance,500,0.19,2023-02-08,Post-IPO,"United States",1500
+Afterverse,BRASILIA,Consumer,60,0.2,2022-06-03,Unknown,Brazil,NULL
+Agoda,SINGAPORE,Travel,1500,0.25,2020-05-18,Acquired,Singapore,NULL
+Ahead,"SF BAY AREA",Healthcare,44,1,2022-04-14,Unknown,"United States",9
+Air,"NEW YORK CITY",Marketing,NULL,0.16,2020-09-16,"Series A","United States",18
+Airbnb,"SF BAY AREA",Travel,30,NULL,2023-03-03,Post-IPO,"United States",6400
+Airbnb,"SF BAY AREA",Travel,1900,0.25,2020-05-05,"Private Equity","United States",5400
+Airlift,LAHORE,Logistics,NULL,0.31,2022-05-25,"Series B",Pakistan,109
+Airlift,LAHORE,Logistics,NULL,1,2022-07-12,"Series B",Pakistan,109
+AirMap,"LOS ANGELES",Aerospace,NULL,NULL,2020-04-30,Unknown,"United States",75
+Airtable,"SF BAY AREA",Product,254,0.2,2022-12-08,"Series F","United States",1400
+Airtame,COPENHAGEN,Consumer,15,NULL,2022-06-15,Unknown,Denmark,7
+Airtasker,SYDNEY,Consumer,NULL,NULL,2022-07-04,"Series C",Australia,26
+Airtime,"NEW YORK CITY",Consumer,30,0.2,2022-05-23,"Series B","United States",33
+"Airy Rooms",JAKARTA,Travel,NULL,0.7,2020-04-22,Unknown,Indonesia,NULL
+"Airy Rooms",JAKARTA,Travel,NULL,1,2020-05-07,Unknown,Indonesia,NULL
+Aiven,HELSINKI,Infrastructure,NULL,0.2,2023-01-18,"Series D",Finland,420
+Ajaib,JAKARTA,Finance,67,0.08,2022-11-28,Unknown,Indonesia,245
+Akerna,DENVER,Logistics,NULL,NULL,2022-05-27,Unknown,"United States",46
+Akerna,DENVER,Logistics,NULL,NULL,2020-09-02,Post-IPO,"United States",NULL
+"Akili Labs",BALTIMORE,Healthcare,46,0.3,2023-01-12,Seed,"United States",NULL
+Akulaku,JAKARTA,Finance,100,NULL,2020-04-15,"Series D",Indonesia,160
+AlayaCare,MONTREAL,Healthcare,80,0.14,2022-08-16,"Series D",Canada,293
+Albert,"LOS ANGELES",Finance,20,0.08,2022-06-10,"Series C","United States",175
+Alegion,AUSTIN,Data,NULL,NULL,2020-04-03,"Series A","United States",16
+Alerzo,IBADAN,Retail,NULL,NULL,2022-09-02,"Series B",Nigeria,16
+Alerzo,IBADAN,Retail,400,NULL,2023-03-06,"Series B",Nigeria,16
+Alice,"SAO PAULO",Healthcare,63,NULL,2022-07-11,"Series C",Brazil,174
+Alice,"SAO PAULO",Healthcare,113,0.16,2022-12-09,"Series C",Brazil,174
+"AliExpress Russia",MOSCOW,Retail,400,0.4,2022-05-14,Acquired,Russia,60
+Allbirds,"SF BAY AREA",Retail,23,NULL,2022-07-28,Post-IPO,"United States",202
+AllyO,"SF BAY AREA",HR,NULL,NULL,2020-04-03,"Series B","United States",64
+Almanac,"SF BAY AREA",Other,NULL,NULL,2022-08-13,"Series A","United States",45
+"Alto Pharmacy","SF BAY AREA",Healthcare,NULL,NULL,2022-07-14,"Series E","United States",560
+"Alto Pharmacy","SF BAY AREA",Healthcare,47,0.06,2020-09-29,"Series D","United States",356
+Amazon,SEATTLE,Retail,150,NULL,2022-10-28,Post-IPO,"United States",108
+Amazon,SEATTLE,Retail,8000,0.02,2023-01-04,Post-IPO,"United States",108
+Amazon,SEATTLE,Retail,10000,0.03,2022-11-16,Post-IPO,"United States",108
+"Amber Group","HONG KONG",crypto,NULL,0.1,2022-09-09,"Series B","Hong Kong",328
+"Ambev Tech",BLUMENAU,Food,50,NULL,2023-03-02,Acquired,Brazil,NULL
+Amdocs,"ST. LOUIS",Support,700,0.03,2023-01-02,Post-IPO,"United States",NULL
+"American Robotics",BOSTON,Other,50,0.65,2023-01-17,Acquired,"United States",92
+Amobee,"SF BAY AREA",Marketing,NULL,NULL,2022-11-09,Acquired,"United States",72
+Amount,CHICAGO,Finance,NULL,0.18,2022-06-27,Unknown,"United States",283
+Amount,CHICAGO,Finance,130,0.25,2023-02-27,Unknown,"United States",283
+Amperity,SEATTLE,Marketing,13,0.03,2022-08-20,"Series D","United States",187
+Amplero,SEATTLE,Marketing,17,1,2020-03-29,"Series B","United States",25
+Anagram,"LOS ANGELES",Healthcare,17,NULL,2020-04-03,"Series A","United States",14
+Andela,"NEW YORK CITY",Recruiting,135,0.1,2020-05-05,"Series D","United States",181
+AngelList,"SF BAY AREA",Recruiting,20,NULL,2020-03-31,"Series B","United States",26
+Anodot,"TEL AVIV",Data,35,0.27,2022-07-06,"Series C","United States",64
+"Antidote Health","TEL AVIV",Healthcare,23,0.38,2022-10-23,Unknown,Israel,36
+Anyvision,"TEL AVIV",Security,NULL,NULL,2020-03-19,"Series A",Israel,74
+Anywell,"TEL AVIV","Real Estate",11,NULL,2022-08-14,"Series A",Israel,15
+"Apartment List","SF BAY AREA","Real Estate",29,0.1,2022-08-31,"Series D","United States",169
+"Apeel Sciences","SANTA BARBARA",Food,NULL,NULL,2022-07-11,"Series E","United States",640
+Apollo,"SF BAY AREA",Product,NULL,0.15,2022-12-15,"Series D","United States",183
+"Apollo Insurance",VANCOUVER,Finance,NULL,0.25,2022-11-15,"Series B",Canada,11
+"App Annie","SF BAY AREA",Data,80,0.18,2020-04-28,Unknown,"United States",156
+Appgate,MIAMI,Security,34,0.08,2023-02-01,Post-IPO,"United States",NULL
