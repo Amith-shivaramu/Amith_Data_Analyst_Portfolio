@@ -22,7 +22,7 @@ My CV in Pdf[  ]()
       
   - SQL
     - [CSV FILE](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/LAY_OFFS.csv) 
-    - [DATA CLEANING IN SQL](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Data_Cleaning%20in%20SQL)
+    - [DATA CLEANING IN SQL](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#sql)
     - [Nashville Housing Data Cleaning]
       
   - Excel / Google Sheets
