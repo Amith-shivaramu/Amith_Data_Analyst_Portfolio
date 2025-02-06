@@ -40,7 +40,7 @@ My CV in Pdf[  ]()
 -[DATA CLEANING IN PANDAS](file:///C:/Users/Admin/Downloads/Data%20Cleaning%20pandas.html)
 
 ## SQL
--[DATA CLEANING IN SQL](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Data_Cleaning%20in%20SQL)
+## DATA CLEANING IN SQL
 
 It involves various techniques to ensure the **Accuracy, Consistency and Reliability of Data**
 1. Handling Missing Data
@@ -48,6 +48,8 @@ It involves various techniques to ensure the **Accuracy, Consistency and Reliabi
 3. Standardizing Data Formats
 4. Removing Unwanted Characters
 5. Remove any Rows and Columns that are not necessary
+   -[CODE](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Data_Cleaning%20in%20SQL)
+
 -[EDA IN SQL]
 
 
