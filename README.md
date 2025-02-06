@@ -29,9 +29,9 @@ My CV in Pdf[  ]()
     
   - Power BI
 
- -[EDUCATION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#education)
+ - [EDUCATION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#education)
 
- -[CERTIFICATIONS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#certifications--internships)
+ - [CERTIFICATIONS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#certifications--internships)
 
 ## PROJECTS
 
@@ -40,7 +40,7 @@ My CV in Pdf[  ]()
 -[DATA CLEANING IN PANDAS](file:///C:/Users/Admin/Downloads/Data%20Cleaning%20pandas.html)
 
 ## SQL
-## DATA CLEANING IN SQL
+### DATA CLEANING IN SQL
 
 It involves various techniques to ensure the **Accuracy, Consistency and Reliability of Data**
 1. Handling Missing Data
@@ -49,9 +49,9 @@ It involves various techniques to ensure the **Accuracy, Consistency and Reliabi
 4. Removing Unwanted Characters
 5. Remove any Rows and Columns that are not necessary
    
-   -[CODE](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Data_Cleaning%20in%20SQL)
+   - [CODE](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Data_Cleaning%20in%20SQL)
 
-## EDA IN SQL
+### EDA IN SQL
 
 
 ## EDUCATION.
