@@ -21,6 +21,7 @@ My CV in Pdf[  ]()
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)
       
   - SQL
+    - [CSV FILE](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/LAY_OFFS.csv) 
     - [DATA CLEANING IN SQL](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Data_Cleaning%20in%20SQL)
     - [Nashville Housing Data Cleaning]
       
