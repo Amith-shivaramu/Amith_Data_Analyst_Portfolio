@@ -53,6 +53,21 @@ It involves various techniques to ensure the **Accuracy, Consistency and Reliabi
 
 ### EDA IN SQL
 
+EDA is a crucial step in data analysis that helps understands the underlying structure of a dataset.
+
+SQL can be powerful tool for perform EDA directly on relational database.
+
+- Understanding the dataset.
+   - Checking Table Structure, Checking Number of Records, Viewing Sample Data
+- Handling Missing Values.
+   - Checking for NULL Values, Replacing Null with Default Values
+- Descriptive Statistics
+   - Finding Minimum and Maximum Values, Calculating Average, Sum and Standard Deviation.
+- Data Distribution
+   - Value Counts ( Frequency Distribution ) and Checking Data Distribution Using Percentiles.
+- Detecting Outliers.
+- Data Cleaning. 
+   
 
 ## EDUCATION.
 
