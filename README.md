@@ -17,7 +17,7 @@ My CV in Pdf[  ]()
 - [PROJECTS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#projects)
   
   - PYTHON
-    - [DATA CLEANING IN PYTHON PANDAS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#python)
+    - [AMAZON_SALES_ANALYSIS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#python)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)
       
   - SQL
