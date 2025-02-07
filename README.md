@@ -37,7 +37,9 @@ My CV in Pdf[  ]()
 
 ## PYTHON
 
--[DATA CLEANING IN PANDAS](file:///C:/Users/Admin/Downloads/Data%20Cleaning%20pandas.html)
+**AMAZON_SALES_ANALYSIS**
+
+  -[Code](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Python_Amazon_Sales.ipynb)
 
 ## SQL
 ### DATA CLEANING IN SQL
