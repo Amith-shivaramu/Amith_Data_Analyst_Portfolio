@@ -37,15 +37,17 @@ My CV in Pdf[  ]()
 
 ## PYTHON
 
+**AMAZON SALESS**
+
 **Code:** [`AMAZON_SALES.ipynb`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Python_Amazon_Sales.ipynb)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** Analyze Amazon sales data to check the buyers preferred choice in the sales.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** The project focused on analyzing a dataset of Amazon sales. The dataset included Order ID,	Date,	Status,	Fulfilment,	Sales Channel,	ship-service-level,	Category,	Size,	Courier, Status,	Qty,	currency,	Amount,	ship-city,	ship-state and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA).
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Data Cleaning, Exploratory Data Analysis, Data Visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 ## SQL
 ### DATA CLEANING IN SQL
