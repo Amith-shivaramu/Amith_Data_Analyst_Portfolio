@@ -18,7 +18,7 @@ My CV in Pdf[  ]()
   
   - PYTHON
     - [AMAZON_SALES_ANALYSIS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#python)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)
+    - [LIVER_CANCER_PREDICTION]()
       
   - SQL
     - [CSV FILE](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/LAY_OFFS.csv) 
@@ -37,7 +37,7 @@ My CV in Pdf[  ]()
 
 ## PYTHON
 
-**AMAZON SALESS**
+**AMAZON SALES ANALYSIS**
 
 **Code:** [`AMAZON_SALES.ipynb`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Python_Amazon_Sales.ipynb)
 
@@ -48,6 +48,19 @@ My CV in Pdf[  ]()
 **Skills:** Data Cleaning, Exploratory Data Analysis, Data Visualization.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
+
+**LIVER_CANCER_PREDICTION**
+
+**Code:** [`LIVER_CANCER_PREDICTION.ipynb`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Liver_cancer_prediction%20(1).ipynb)
+
+**Goal:** Analyze Amazon sales data to check the buyers preferred choice in the sales.
+
+**Description:** This dataset contains information about liver cancer predictions in the 30 most populated countries. It includes factors such as age, gender, alcohol use, healthcare access, and screening availability. The data helps understand how liver cancer spreads, which groups are at higher risk, and how healthcare differences affect survival chances.
+
+**Skills:** Data Cleaning, Exploratory Data Analysis, Data Visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
+
 
 ## SQL
 ### DATA CLEANING IN SQL
