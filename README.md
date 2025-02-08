@@ -18,7 +18,7 @@ My CV in Pdf[  ]()
   
   - PYTHON
     - [AMAZON_SALES_ANALYSIS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#amazon-sales-analysis)
-    - [LIVER_CANCER_PREDICTION](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Liver_cancer_prediction%20(1).ipynb)
+    - [LIVER_CANCER_PREDICTION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#liver_cancer_prediction)
       
   - SQL
     - [CSV FILE](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/LAY_OFFS.csv) 
