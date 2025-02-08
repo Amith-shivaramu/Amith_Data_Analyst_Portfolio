@@ -37,7 +37,7 @@ My CV in Pdf[  ]()
 
 ## PYTHON
 
-**AMAZON SALES ANALYSIS**
+## **AMAZON SALES ANALYSIS**
 
 **Code:** [`AMAZON_SALES.ipynb`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Python_Amazon_Sales.ipynb)
 
@@ -49,11 +49,11 @@ My CV in Pdf[  ]()
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
-**LIVER_CANCER_PREDICTION**
+## **LIVER_CANCER_PREDICTION**
 
 **Code:** [`LIVER_CANCER_PREDICTION.ipynb`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Liver_cancer_prediction%20(1).ipynb)
 
-**Goal:** Analyze Amazon sales data to check the buyers preferred choice in the sales.
+**Goal:** .
 
 **Description:** This dataset contains information about liver cancer predictions in the 30 most populated countries. It includes factors such as age, gender, alcohol use, healthcare access, and screening availability. The data helps understand how liver cancer spreads, which groups are at higher risk, and how healthcare differences affect survival chances.
 
