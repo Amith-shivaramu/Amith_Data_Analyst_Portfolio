@@ -20,7 +20,7 @@ My CV in Pdf[  ]()
     - [AMAZON_SALES_ANALYSIS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#amazon-sales-analysis)
     - [LIVER_CANCER_PREDICTION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#liver_cancer_prediction)
       
-  - POWERBI
+  - POWER BI
     - [PIZZA DATABASE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#pizza-sales-database-visualization-project) 
     - [SPACE MISSION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#space-mission-visualization-project)
       
@@ -28,7 +28,7 @@ My CV in Pdf[  ]()
     - [EMPLOYEES_WORKFORCE_DATA](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#employees-workforce-data)
     - [SALES PROFIT AND CUSTOMER METRICS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#sales-profit-and-customer-metrics)
     
-  - Power BI
+  - SQL
 
  - [EDUCATION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#education)
 
