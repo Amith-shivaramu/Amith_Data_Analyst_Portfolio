@@ -1,6 +1,6 @@
 # Amith S --DataAnalyst_Portfolio--
 
-## ABOUT
+# ABOUT
 
 **Hai, I'm Amith S!** I'm having **1.5 years of experience as an SQL Developer**, I have overview my skills in database management, query optimization, and data analysis. I have developed strong foundation in  combined with my technical expertise in SQL and data analytics, allows me to uncover meaningful insights from complex datasets. I am excited to apply my analytical and technical skills to a data-driven role as an **entry-level Data Analyst**.  
 
@@ -10,7 +10,7 @@ Also Skilled in data analysis tools like SQL, Python, Excel, and Power BI.Experi
 
 My CV in Pdf[  ]()
 
-## TABLE OF CONTENTS
+# TABLE OF CONTENTS
 
 - [ABOUT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#about)
   
