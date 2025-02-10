@@ -20,10 +20,9 @@ My CV in Pdf[  ]()
     - [AMAZON_SALES_ANALYSIS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#amazon-sales-analysis)
     - [LIVER_CANCER_PREDICTION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#liver_cancer_prediction)
       
-  - SQL
-    - [CSV FILE](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/LAY_OFFS.csv) 
-    - [DATA CLEANING IN SQL](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#sql)
-    - [EDA IN SQL](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#eda-in-sql)
+  - POWERBI
+    - [PIZZA DATABASE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/LAY_OFFS.csv) 
+    - [SPACE MISSION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#sql)
       
   - Excel / Google Sheets
     - [EMPLOYEES_WORKFORCE_DATA](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#employees-workforce-data)
@@ -64,17 +63,32 @@ My CV in Pdf[  ]()
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 
-## SQL
-### DATA CLEANING IN SQL
+## POWER BI
+## **PIZZA SALES DATABASE VISUALIZATION PROJECT**
 
-It involves various techniques to ensure the **Accuracy, Consistency and Reliability of Data**
-1. Handling Missing Data
-2. Removing Duplicates
-3. Standardizing Data Formats
-4. Removing Unwanted Characters
-5. Remove any Rows and Columns that are not necessary
-   
-   - [CODE](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Data_Cleaning%20in%20SQL)
+**Code:** [`PIZZA_DATABASE_VISUALIZATION_PROJECT.pbix`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/PIZZA_DB%20Project%20Visuals.pbix)
+
+**Goal:** Build a visualization To check Best and Worst Seller of Pizza Sales Report.
+
+**Description:** The dataset contains information about pizza sales. The project involved in Data Loading, Data Cleaning and Transformation. Define Relationships in Model View and creating Measures and Building 
+                 Reports.
+
+**Skills:** Data Cleaning through Transform data, Data visualization through Report View in PowerBI 
+
+**Technology:** Power BI 
+
+## **SPACE MISSION VISUALIZATION PROJECT**
+
+**Code:** [`SPACE_MISSION_VISUALIZATION.pbix`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Space%20Mission.pbix)
+
+**Goal:** Build a visualization Report of Success mission, Prelaunch mission, Partial mission and Failure mission.
+
+**Description:** The dataset contains information about pizza sales. The project involved in Data Loading, Data Cleaning and Transformation. Define Relationships in Model View and creating Measures and Building 
+                 Reports.
+
+**Skills:** Data Cleaning through Transform data, Data visualization through Report View in PowerBI 
+
+**Technology:** Power BI 
 
 ### EDA IN SQL
 
