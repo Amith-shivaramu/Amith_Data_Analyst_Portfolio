@@ -73,7 +73,7 @@ My CV in Pdf[  ]()
 **Description:** The dataset contains information about pizza sales. The project involved in Data Loading, Data Cleaning and Transformation. Define Relationships in Model View and creating Measures and Building 
                  Reports.
 
-**Skills:** Data Cleaning through Transform data, Data visualization through Report View in PowerBI 
+**Skills:** Data Loading, Cleaning and Transformation, Creating Measures, Building Visualization Report. 
 
 **Technology:** Power BI 
 
@@ -86,7 +86,7 @@ My CV in Pdf[  ]()
 **Description:** The dataset contains information about pizza sales. The project involved in Data Loading, Data Cleaning and Transformation. Define Relationships in Model View and creating Measures and Building 
                  Reports.
 
-**Skills:** Data Cleaning through Transform data, Data visualization through Report View in PowerBI 
+**Skills:** Data Loading, Cleaning and Transformation, Creating Measures, Building Visualization Report. 
 
 **Technology:** Power BI 
 
