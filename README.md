@@ -109,7 +109,7 @@ My CV in Pdf[  ]()
 
   ## **SALES PROFIT AND CUSTOMER METRICS**
 
-  **CODE:** [`SALES PROFIT AND CUSTOMER METRICS.xlsx`](https://github.com/Amithshivaramu/PROJECTS_PORTFOLIO/blob/main/Sales%20Profit%20%26%20Customer%20Metrics.xlsx)
+  **CODE:** [`SALES PROFIT AND CUSTOMER METRICS.xlsx`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Sales%20Profit%20%26%20Customer%20Metrics.xlsx)
 
   **GOAL:** Building Visualization Dashboard of Sales Profit in MS Excel.
 
