@@ -22,7 +22,7 @@ My CV in Pdf[  ]()
       
   - POWERBI
     - [PIZZA DATABASE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#pizza-sales-database-visualization-project) 
-    - [SPACE MISSION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#sql)
+    - [SPACE MISSION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#space-mission-visualization-project)
       
   - Excel / Google Sheets
     - [EMPLOYEES_WORKFORCE_DATA](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#employees-workforce-data)
@@ -63,7 +63,7 @@ My CV in Pdf[  ]()
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 
-## POWER BI
+# POWER BI
 ## **PIZZA SALES DATABASE VISUALIZATION PROJECT**
 
 **Code:** [`PIZZA_DATABASE_VISUALIZATION_PROJECT.pbix`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/PIZZA_DB%20Project%20Visuals.pbix)
@@ -89,23 +89,6 @@ My CV in Pdf[  ]()
 **Skills:** Data Cleaning through Transform data, Data visualization through Report View in PowerBI 
 
 **Technology:** Power BI 
-
-### EDA IN SQL
-
-EDA is a crucial step in data analysis that helps understands the underlying structure of a dataset.
-
-SQL can be powerful tool for perform EDA directly on relational database.
-
-- Understanding the dataset.
-   - Checking Table Structure, Checking Number of Records, Viewing Sample Data
-- Handling Missing Values.
-   - Checking for NULL Values, Replacing Null with Default Values
-- Descriptive Statistics
-   - Finding Minimum and Maximum Values, Calculating Average, Sum and Standard Deviation.
-- Data Distribution
-   - Value Counts ( Frequency Distribution ) and Checking Data Distribution Using Percentiles.
-- Detecting Outliers.
-- Data Cleaning.
 
   # MS EXCEL
 
