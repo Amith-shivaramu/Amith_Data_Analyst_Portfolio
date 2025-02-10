@@ -53,7 +53,7 @@ My CV in Pdf[  ]()
 
 **Code:** [`LIVER_CANCER_PREDICTION.ipynb`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Liver_cancer_prediction%20(1).ipynb)
 
-**Goal:** .
+**Goal:** To Check how healthcare differences affect survival chances.
 
 **Description:** This dataset contains information about liver cancer predictions in the 30 most populated countries. It includes factors such as age, gender, alcohol use, healthcare access, and screening availability. The data helps understand how liver cancer spreads, which groups are at higher risk, and how healthcare differences affect survival chances.
 
@@ -89,7 +89,23 @@ SQL can be powerful tool for perform EDA directly on relational database.
 - Data Distribution
    - Value Counts ( Frequency Distribution ) and Checking Data Distribution Using Percentiles.
 - Detecting Outliers.
-- Data Cleaning. 
+- Data Cleaning.
+
+  # MS EXCEL
+
+  ## **EMPLOYEES WORKFORCE DATA**
+
+  **CODE:** [`EMPLOYEES_WORKFORCE_DATA.xlsx`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Employee%20Workforce%20Data.xlsx)
+
+  **GOAL:** 
+
+  **DESCRIPTION:** This dataset contains information about Employees Workforce data. It includes factors such as EmployeeID, Full Name, Gender, Age, Job, Department, Business, Hire, Exit, Annual, Bonus, Status, 
+                   Year, Age Group. This helps us to understand of Active and Inactive employees and highest salry paid employee , Employee age distribution and also Number of years service analysis and will     
+                   create pivot table and dashboard for this data.
+
+  **SKILLS:** Data Cleaning, Pivot Table, Visualization Dashboard
+
+  **TECHNOLOGY:** MS-Excel
    
 
 ## EDUCATION.
