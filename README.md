@@ -96,11 +96,26 @@ My CV in Pdf[  ]()
 
   **CODE:** [`EMPLOYEES_WORKFORCE_DATA.xlsx`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Employee%20Workforce%20Data.xlsx)
 
-  **GOAL:** 
+  **GOAL:** Building Visualization Dashboard of Employee Workforce in MS Excel.
 
-  **DESCRIPTION:** This dataset contains information about Employees Workforce data. It includes factors such as EmployeeID, Full Name, Gender, Age, Job, Department, Business, Hire, Exit, Annual, Bonus, Status, 
-                   Year, Age Group. This helps us to understand of Active and Inactive employees and highest salry paid employee , Employee age distribution and also Number of years service analysis and will     
-                   create pivot table and dashboard for this data.
+  **DESCRIPTION:** This dataset contains information about Employees Workforce data. It includes factors such as EmployeeID, Full Name, Gender, Age, Job, 
+                   Department, Business, Hire, Exit, Annual, Bonus, Status, Year, Age Group. This helps us to understand of Active and Inactive employees and 
+                   highest salry paid employee , Employee age distribution and also Number of years service analysis and will create pivot table and dashboard for 
+                   this data.
+
+  **SKILLS:** Data Cleaning, Pivot Table, Visualization Dashboard
+
+  **TECHNOLOGY:** MS-Excel
+
+  ## **SALES PROFIT AND CUSTOMER METRICS**
+
+  **CODE:** [`SALES PROFIT AND CUSTOMER METRICS.xlsx`](https://github.com/Amithshivaramu/PROJECTS_PORTFOLIO/blob/main/Sales%20Profit%20%26%20Customer%20Metrics.xlsx)
+
+  **GOAL:** Building Visualization Dashboard of Sales Profit in MS Excel.
+
+  **DESCRIPTION:** This dataset contains information about Sales Profit and Customer Metrics. It includes factors such as Date, Region, Sales, Profit, Target 
+                   Sales, No. of customers, Sales completion rate, profit completion rate and other relevant information. This helps us to understand of sales and 
+                   Target by Region , Sales by Country.          
 
   **SKILLS:** Data Cleaning, Pivot Table, Visualization Dashboard
 
