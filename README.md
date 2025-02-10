@@ -21,7 +21,7 @@ My CV in Pdf[  ]()
     - [LIVER_CANCER_PREDICTION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#liver_cancer_prediction)
       
   - POWERBI
-    - [PIZZA DATABASE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/LAY_OFFS.csv) 
+    - [PIZZA DATABASE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#pizza-sales-database-visualization-project) 
     - [SPACE MISSION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#sql)
       
   - Excel / Google Sheets
