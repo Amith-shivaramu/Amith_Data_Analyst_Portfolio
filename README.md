@@ -26,7 +26,7 @@ My CV in Pdf[  ]()
       
   - Excel / Google Sheets
     - [EMPLOYEES_WORKFORCE_DATA](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#employees-workforce-data)
-    - []()
+    - [SALES PROFIT AND CUSTOMER METRICS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#sales-profit-and-customer-metrics)
     
   - Power BI
 
