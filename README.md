@@ -26,7 +26,7 @@ My CV in Pdf[  ]()
       
   - SQL
     - [Human Resources project.sql](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#human-resources-project)
-    - [Orders_Product_account manager project.sql]
+    - [Orders_Product_account manager project.sql](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#order-product-account-manager-project)
       
   - Excel / Google Sheets
     - [EMPLOYEES_WORKFORCE_DATA](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#employees-workforce-data)
