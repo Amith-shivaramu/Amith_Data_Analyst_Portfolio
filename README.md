@@ -94,6 +94,34 @@ My CV in Pdf[  ]()
 
 **Technology:** Power BI 
 
+# SQL
+## **HUMAN RESOURCES PROJECT**
+
+**Code:** [`HUMAN RESOURCES PROJECT.SQL`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Human_Resources_project.sql)
+
+**Goal:** Cleaning the Data and EDA of this Data.
+
+**Description:** Data Cleaning involves various techniques to ensure the accuracy, consistency and reliability. It handles missing data, Removing Duplicates, Standardizing Data formats and many more. SQL can be 
+                 powerful tool to perform EDA directly on relational database. 
+
+**Skills:** Data Cleaning, EDA in sql. 
+
+**Technology:**  SQL WORKBENCH
+
+## **ORDER, PRODUCT, ACCOUNT MANAGER PROJECT**
+
+**Code:** [`Order_Product_Account manager project.sql`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Data%20cleaning%20and%20analysis%20of%20order.sql)
+
+**Goal:** Data Cleaning and EDA in sql.
+
+**Description:** Data Cleaning involves various techniques to ensure the accuracy, consistency and reliability. It handles missing data, Removing Duplicates, Standardizing Data formats and many more. EDA is a 
+                 crucial step in data analysisthat heps understands the underlying structure of a dataset. SQL can be powerful tool to perform EDA directly on relational database. 
+
+**Skills:** Data Loading, Cleaning and Transformation, Creating Measures, Building Visualization Report. 
+
+**Technology:**  SQL WORKBENCH
+
+
   # MS EXCEL
 
   ## **EMPLOYEES WORKFORCE DATA**
