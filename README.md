@@ -25,7 +25,7 @@ My CV in Pdf[  ]()
     - [SPACE MISSION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#space-mission-visualization-project)
       
   - SQL
-    - [Human Resources project.sql]
+    - [Human Resources project.sql](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#human-resources-project)
     - [Orders_Product_account manager project.sql]
       
   - Excel / Google Sheets
