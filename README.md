@@ -24,6 +24,10 @@ My CV in Pdf[  ]()
     - [PIZZA DATABASE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#pizza-sales-database-visualization-project) 
     - [SPACE MISSION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#space-mission-visualization-project)
       
+  - SQL
+    - [Human Resources project.sql]
+    - [Orders_Product_account manager project.sql]
+      
   - Excel / Google Sheets
     - [EMPLOYEES_WORKFORCE_DATA](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#employees-workforce-data)
     - [SALES PROFIT AND CUSTOMER METRICS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#sales-profit-and-customer-metrics)
