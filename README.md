@@ -18,7 +18,7 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
   
   - PYTHON
     - [AMAZON_SALES_ANALYSIS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#amazon-sales-analysis)
-    - [HR DATA ANALYTICS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#liver_cancer_prediction)
+    - [HR DATA ANALYTICS](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/HR_DATA_ANALYSIS.ipynb)
       
   - POWER BI
     - [CALL CENTRE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#call-centre-visualization-project) 
