@@ -18,21 +18,19 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
   
   - PYTHON
     - [AMAZON_SALES_ANALYSIS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#amazon-sales-analysis)
-    - [HR DATA ANALYTICS](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/HR_DATA_ANALYSIS.ipynb)
+    - [HR DATA ANALYSIS](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/HR_DATA_ANALYSIS.ipynb)
       
   - POWER BI
     - [CALL CENTRE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#call-centre-visualization-project) 
     - [SPACE MISSION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#space-mission-visualization-project)
       
   - SQL
-    - [Human Resources project.sql](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#human-resources-project)
-    - [Orders_Product_account manager project.sql](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#order-product-account-manager-project)
+    - [HUMAN RESOURCES PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#human-resources-project)
+    - [ORDERS, PRODUCT, ACCOUNT_MANAGER PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#order-product-account-manager-project)
       
   - Excel / Google Sheets
     - [EMPLOYEES_WORKFORCE_DATA](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#employees-workforce-data)
     - [SALES PROFIT AND CUSTOMER METRICS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#sales-profit-and-customer-metrics)
-    
-  - SQL
 
  - [EDUCATION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#education)
 
