@@ -18,7 +18,7 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
   
   - PYTHON
     - [AMAZON_SALES_ANALYSIS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#amazon-sales-analysis)
-    - [LIVER_CANCER_PREDICTION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#liver_cancer_prediction)
+    - [HR DATA ANALYTICS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#liver_cancer_prediction)
       
   - POWER BI
     - [CALL CENTRE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#call-centre-visualization-project) 
@@ -54,13 +54,13 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
-## **LIVER_CANCER_PREDICTION**
+## **HR DATA ANALYSIS**
 
-**Code:** [`LIVER_CANCER_PREDICTION.ipynb`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Liver_cancer_prediction%20(1).ipynb)
+**Code:** [`HR DATA ANALYSIS.ipynb`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/HR_DATA_ANALYSIS.ipynb)
 
-**Goal:** To Check how healthcare differences affect survival chances.
+**Goal:** Data Cleaning and build EDA.
 
-**Description:** This dataset contains information about liver cancer predictions in the 30 most populated countries. It includes factors such as age, gender, alcohol use, healthcare access, and screening availability. The data helps understand how liver cancer spreads, which groups are at higher risk, and how healthcare differences affect survival chances.
+**Description:** The dataset contains detailed information about employees, training programs, and other HR-related metrics.
 
 **Skills:** Data Cleaning, Exploratory Data Analysis, Data Visualization.
 
