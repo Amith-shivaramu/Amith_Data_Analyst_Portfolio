@@ -21,7 +21,7 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
     - [LIVER_CANCER_PREDICTION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#liver_cancer_prediction)
       
   - POWER BI
-    - [PIZZA DATABASE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#pizza-sales-database-visualization-project) 
+    - [CALL CENTRE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#pizza-sales-database-visualization-project) 
     - [SPACE MISSION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#space-mission-visualization-project)
       
   - SQL
@@ -68,14 +68,14 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
 
 # POWER BI
-## **PIZZA SALES DATABASE VISUALIZATION PROJECT**
+## **CALL CENTRE VISUALIZATION PROJECT**
 
-**Code:** [`PIZZA_DATABASE_VISUALIZATION_PROJECT.pbix`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/PIZZA_DB%20Project%20Visuals.pbix)
+**Code:** [`CALL_CENTRE_VISUALIZATION_PROJECT.pbix`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Call_Centre.pbix)
 
-**Goal:** Build a visualization To check Best and Worst Seller of Pizza Sales Report.
+**Goal:** Build a visualization report to check Total Calls .
 
-**Description:** The dataset contains information about pizza sales. The project involved in Data Loading, Data Cleaning and Transformation. Define Relationships in Model View and creating Measures and Building 
-                 Reports.
+**Description:** The dataset contains information about Call-Centre, Total_Calls. The project involved in Data Loading, Data Cleaning and Transformation. Defined Relationships in Model View and creating Measures 
+                 and Building visualization Reports.
 
 **Skills:** Data Loading, Cleaning and Transformation, Creating Measures, Building Visualization Report. 
 
