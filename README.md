@@ -162,5 +162,7 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
    -[DATA ANALYST CERTIFICATE](https://learn.365datascience.com/c/746eeb9ef0/) 
    
-   -[DATA ANALYTICS ESSENTIALS CERTIFICATE](https://www.netacad.com/certificates?issuanceId=66324ca5-f5d7-4878-95d6-79ff9b8cd976)
+   -[PYTHON CERTIFICATE](https://github.com/Amith-shivaramu/Certifications/blob/main/Python%20Certificate%20.pdf)
+
+   -[EXCEL WORKSHOP CERTIFICATE](https://github.com/Amith-shivaramu/Certifications/blob/main/Excel%20Certificate%20.pdf)
 
