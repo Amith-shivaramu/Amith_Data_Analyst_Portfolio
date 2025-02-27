@@ -44,9 +44,11 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
 **Code:** [`AMAZON_SALES.ipynb`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Python_Amazon_Sales.ipynb)
 
-**Goal:** Analyze Amazon sales data to check the buyers preferred choice in the sales.
+**Goal:** Data Cleaning and Preprocessing using **Pandas and Numpy** and EDA and Insights using **Pandas, Matplotlib and Seaborn**.
 
-**Description:** The project focused on analyzing a dataset of Amazon sales. The dataset included Order ID,	Date,	Status,	Fulfilment,	Sales Channel,	ship-service-level,	Category,	Size,	Courier, Status,	Qty,	currency,	Amount,	ship-city,	ship-state and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA).
+**Description:** The project focused on analyzing a dataset of Amazon sales. The dataset included Order ID,	Date,	Status,	Fulfilment,	Sales Channel,	
+                 ship-service-level,	Category,	Size,	Courier, Status,	Qty,	currency,	Amount,	ship-city,	ship-state and other relevant information. 
+                 The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA) using pandas, numpy, matplotlib and seaborn.
 
 **Skills:** Data Cleaning, Exploratory Data Analysis, Data Visualization.
 
@@ -56,7 +58,7 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
 **Code:** [`HR DATA ANALYSIS.ipynb`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/HR_DATA_ANALYSIS.ipynb)
 
-**Goal:** Data Cleaning and build EDA.
+**Goal:** Data Cleaning and Preprocessing using **Pandas and Numpy** and EDA and Insights using **Pandas, Matplotlib and Seaborn**..
 
 **Description:** The dataset contains detailed information about employees, training programs, and other HR-related metrics.
 
@@ -70,10 +72,10 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
 **Code:** [`CALL_CENTRE_VISUALIZATION_PROJECT.pbix`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Call_Centre.pbix)
 
-**Goal:** Build a visualization report to check Total Calls .
+**Goal:** Data Cleaning and Preprocessing using **PowerQuery and DAX**, Data Modelling and KPI Development, Data Visualization and Dashboard Development using PowerBI.
 
-**Description:** The dataset contains information about Call-Centre, Total_Calls. The project involved in Data Loading, Data Cleaning and Transformation. Defined Relationships in Model View and creating Measures 
-                 and Building visualization Reports.
+**Description:** The dataset contains information about Call-Centre, Total_Calls. The project involved in Data Loading, Data Cleaning and Transformation. 
+                 Defined Relationships in Model View and creating Measures and Building visualization Reports.
 
 **Skills:** Data Loading, Cleaning and Transformation, Creating Measures, Building Visualization Report. 
 
@@ -83,10 +85,9 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
 **Code:** [`SPACE_MISSION_VISUALIZATION.pbix`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Space%20Mission.pbix)
 
-**Goal:** Build a visualization Report of Success mission, Prelaunch mission, Partial mission and Failure mission.
+**Goal:** Data Cleaning and Preprocessing using **PowerQuery and DAX**, Data Modelling and KPI Development, Data Visualization and Dashboard Development using PowerBI..
 
-**Description:** The dataset contains information about pizza sales. The project involved in Data Loading, Data Cleaning and Transformation. Define Relationships in Model View and creating Measures and Building 
-                 Reports.
+**Description:** This PowerBI Project focuses on analyzing space mission data to track launch success rates, costs and failure mission rates.
 
 **Skills:** Data Loading, Cleaning and Transformation, Creating Measures, Building Visualization Report. 
 
@@ -97,10 +98,9 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
 **Code:** [`HUMAN RESOURCES PROJECT.SQL`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Human_Resources_project.sql)
 
-**Goal:** Cleaning the Data and EDA of this Data.
+**Goal:** Data Cleaning and Preprocessing, Exploratory Data Analysis (EDA), SQL Query Development, Visualization and Reporting.
 
-**Description:** Data Cleaning involves various techniques to ensure the accuracy, consistency and reliability. It handles missing data, Removing Duplicates, Standardizing Data formats and many more. SQL can be 
-                 powerful tool to perform EDA directly on relational database. 
+**Description:** This SQL based HR Analytics project aims to analyze gender breakdown of employees in the company and employees working at headquarters versus remote locations, distribution of job titles across the company. This finding will help HR teams to improve workforce management.
 
 **Skills:** Data Cleaning, EDA in sql. 
 
@@ -110,12 +110,13 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
 **Code:** [`Order_Product_Account manager project.sql`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Data%20cleaning%20and%20analysis%20of%20order.sql)
 
-**Goal:** Data Cleaning and EDA in sql.
+**Goal:** Data Cleaning and EDA in sql, Sales and Revenue Analysis, Order and shipping performance.
 
-**Description:** Data Cleaning involves various techniques to ensure the accuracy, consistency and reliability. It handles missing data, Removing Duplicates, Standardizing Data formats and many more. EDA is a 
-                 crucial step in data analysisthat heps understands the underlying structure of a dataset. SQL can be powerful tool to perform EDA directly on relational database. 
+**Description:** This project aims to analyze Total Revenue generated by each product category, Total revenue generated each year, 
+                 Top 10 highest highest performing products, Total Revenue and profit generated by each account manager and 
+                 highest selling products in the year.
 
-**Skills:** Data Loading, Cleaning and Transformation, Creating Measures, Building Visualization Report. 
+**Skills:** Data Cleaning and EDA. 
 
 **Technology:**  SQL WORKBENCH
 
@@ -126,14 +127,13 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
   **CODE:** [`EMPLOYEES_WORKFORCE_DATA.xlsx`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Employee%20Workforce%20Data.xlsx)
 
-  **GOAL:** Building Visualization Dashboard of Employee Workforce in MS Excel.
+  **GOAL:** Data Cleaning and Analysis in Excel, Workforce Metric Calculation, Data Visualization and Dashboard.
 
   **DESCRIPTION:** This dataset contains information about Employees Workforce data. It includes factors such as EmployeeID, Full Name, Gender, Age, Job, 
                    Department, Business, Hire, Exit, Annual, Bonus, Status, Year, Age Group. This helps us to understand of Active and Inactive employees and 
-                   highest salry paid employee , Employee age distribution and also Number of years service analysis and will create pivot table and dashboard for 
-                   this data.
+                   highest salry paid employee , Employee age distribution and also Number of years service analysis.
 
-  **SKILLS:** Data Cleaning, Pivot Table, Visualization Dashboard
+  **SKILLS:** Data Cleaning, Workforce Metric Calculation, Pivot Table, Visualization Dashboard.
 
   **TECHNOLOGY:** MS-Excel
 
@@ -141,11 +141,11 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
   **CODE:** [`SALES PROFIT AND CUSTOMER METRICS.xlsx`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Sales%20Profit%20%26%20Customer%20Metrics.xlsx)
 
-  **GOAL:** Building Visualization Dashboard of Sales Profit in MS Excel.
+  **GOAL:** Data Cleaning and Pre-processing, Key sales and Profit Metrics Collection, Data Visualization and Dashboard.
 
   **DESCRIPTION:** This dataset contains information about Sales Profit and Customer Metrics. It includes factors such as Date, Region, Sales, Profit, Target 
-                   Sales, No. of customers, Sales completion rate, profit completion rate and other relevant information. This helps us to understand of sales and 
-                   Target by Region , Sales by Country.          
+                   Sales, No. of customers, Sales completion rate, profit completion rate and other relevant information. This helps us to track key sales profit 
+                   and customer related metrics across different regions and Time Periods.          
 
   **SKILLS:** Data Cleaning, Pivot Table, Visualization Dashboard
 
