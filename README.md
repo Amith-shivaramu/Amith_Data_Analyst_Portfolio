@@ -161,6 +161,8 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 ## CERTIFICATIONS / INTERNSHIPS.
 
    -[DATA ANALYST CERTIFICATE](https://learn.365datascience.com/c/746eeb9ef0/) 
+
+   -[DATA ANALYTICS ESSENTIAL CERTIFICATE](https://github.com/Amith-shivaramu/Certifications/blob/main/Data%20Analytics%20Essential%20Certificate.pdf)
    
    -[PYTHON CERTIFICATE](https://github.com/Amith-shivaramu/Certifications/blob/main/Python%20Certificate%20.pdf)
 
