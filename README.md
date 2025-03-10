@@ -22,7 +22,7 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
       
   - POWER BI
     - [CALL CENTRE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#call-centre-visualization-project) 
-    - [FINANCIAL PROFIT ANALYSIS PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#space-mission-visualization-project)
+    - [FINANCIAL PROFIT ANALYSIS PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#financial-profit-analysis-project)
       
   - SQL
     - [HUMAN RESOURCES PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#human-resources-project)
