@@ -22,7 +22,7 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
       
   - POWER BI
     - [CALL CENTRE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#call-centre-visualization-project) 
-    - [SPACE MISSION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#space-mission-visualization-project)
+    - [FINANCIAL PROFIT ANALYSIS PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#space-mission-visualization-project)
       
   - SQL
     - [HUMAN RESOURCES PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#human-resources-project)
@@ -81,13 +81,13 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
 **Technology:** Power BI 
 
-## **SPACE MISSION VISUALIZATION PROJECT**
+## **FINANCIAL PROFIT ANALYSIS PROJECT**
 
-**Code:** [`SPACE_MISSION_VISUALIZATION.pbix`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Space%20Mission.pbix)
+**Code:** [`Financial Profit Analysis Dashboard.pbix`](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Financial%20Dashboard.pbix)
 
 **Goal:** Data Cleaning and Preprocessing using **PowerQuery and DAX**, Data Modelling and KPI Development, Data Visualization and Dashboard Development using PowerBI..
 
-**Description:** This PowerBI Project focuses on analyzing space mission data to track launch success rates, costs and failure mission rates.
+**Description:** This PowerBI Project focuses on Financial Profit Analysis like Total Sales, Gross Sales, Net Sales, Profit by Discounts and so on.
 
 **Skills:** Data Loading, Cleaning and Transformation, Creating Measures, Building Visualization Report. 
 
