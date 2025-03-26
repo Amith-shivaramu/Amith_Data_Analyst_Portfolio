@@ -17,20 +17,20 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 - [PROJECTS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#projects)
   
   - PYTHON
-    - [AMAZON_SALES_ANALYSIS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#amazon-sales-analysis)
-    - [HR DATA ANALYSIS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#hr-data-analysis)
+    - [AMAZON_SALES_ANALYSIS](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Python_Projects/1.Amazon%20Sales%20Analysis.md#amazon-sales-analysis)
+    - [HR DATA ANALYSIS](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Python_Projects/2.%20HR%20Data%20Analysis%20Project.md#hr-data-analysis)
       
   - POWER BI
-    - [CALL CENTRE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#call-centre-visualization-project) 
-    - [FINANCIAL PROFIT ANALYSIS PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#financial-profit-analysis-project)
+    - [CALL CENTRE VISUALIZATION PROJECT](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/PowerBI_Projects/1.%20Call%20Centre%20Visualization%20Project.md#call-centre-visualization-project) 
+    - [FINANCIAL PROFIT ANALYSIS PROJECT](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/PowerBI_Projects/2.%20Financial%20Profit%20Analysis%20Project.md#financial-profit-analysis-project)
       
   - SQL
-    - [HUMAN RESOURCES PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#human-resources-project)
-    - [ORDERS, PRODUCT, ACCOUNT_MANAGER PROJECT](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#order-product-account-manager-project)
+    - [HUMAN RESOURCES PROJECT](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/SQL%20Projects/1.%20Human%20Resources%20Project.md#human-resources-project)
+    - [ORDERS, PRODUCT, ACCOUNT_MANAGER PROJECT](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/SQL%20Projects/2.%20Order_Product_Account%20Manger%20Project.md#order-product-account-manager-project)
       
   - Excel / Google Sheets
-    - [EMPLOYEES_WORKFORCE_DATA](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#employees-workforce-data)
-    - [SALES PROFIT AND CUSTOMER METRICS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#sales-profit-and-customer-metrics)
+    - [EMPLOYEES_WORKFORCE_DATA](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Excel_Projects/1.%20Employee_Workforce_Data.md#employees-workforce-data)
+    - [SALES PROFIT AND CUSTOMER METRICS](https://github.com/Amith-shivaramu/PROJECTS_PORTFOLIO/blob/main/Excel_Projects/2.%20Sales_Profit%20and%20Customer_metrics%20Data.md#sales-profit-and-customer-metrics)
 
  - [EDUCATION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#education)
 
