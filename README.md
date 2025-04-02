@@ -8,7 +8,7 @@ In my role as an SQL Developer, I have refined my technical abilities by optimiz
 
 Also Skilled in data analysis tools like SQL, Python, Excel, and Power BI.Experienced in overview complex queries to extract and manipulate data efficiently.Developed insightful data visualizations to support decision-making.Strong analytical skills and problem-solving capabilities through data-driven projects.Passionate about manipulating data to uncover meaningful insights.
 
-My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amith%20CV.pdf)
+My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Data_Analyst_Portfolio/blob/main/Amith_CV.pdf)
 
 # TABLE OF CONTENTS
 
