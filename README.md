@@ -45,11 +45,15 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
 ## CERTIFICATIONS / INTERNSHIPS.
 
-   -[DATA ANALYST CERTIFICATE](https://learn.365datascience.com/c/746eeb9ef0/) 
+   -[DATA ANALYST CERTIFICATE](https://github.com/Amith-shivaramu/Certifications/blob/main/Data%20Analyst%20certificate.pdf) 
 
    -[DATA ANALYTICS ESSENTIAL CERTIFICATE](https://github.com/Amith-shivaramu/Certifications/blob/main/Data%20Analytics%20Essential%20Certificate.pdf)
    
    -[PYTHON CERTIFICATE](https://github.com/Amith-shivaramu/Certifications/blob/main/Python%20Certificate%20.pdf)
 
+   -[PYTHON ESSENTIAL](https://github.com/Amith-shivaramu/Certifications/blob/main/CertificateOfCompletion_Python%20Essential%20Training.pdf)
+
    -[EXCEL WORKSHOP CERTIFICATE](https://github.com/Amith-shivaramu/Certifications/blob/main/Excel%20Certificate%20.pdf)
+
+   -[POWER BI](https://github.com/Amith-shivaramu/Certifications/blob/main/Power%20BI%20Certificate.pdf)
 
