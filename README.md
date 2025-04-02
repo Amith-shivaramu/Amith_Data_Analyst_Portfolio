@@ -36,7 +36,7 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
  - [CERTIFICATIONS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#certifications--internships)
 
- - [CONTACT]
+ - [CONTACT](https://github.com/Amith-shivaramu/Amith_Data_Analyst_Portfolio/blob/main/README.md#contact)
    
 
 ## EDUCATION.
