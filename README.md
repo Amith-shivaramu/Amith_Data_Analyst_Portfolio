@@ -35,6 +35,8 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
  - [EDUCATION](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#education)
 
  - [CERTIFICATIONS](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/README.md#certifications--internships)
+
+ - [CONTACT]
    
 
 ## EDUCATION.
@@ -57,3 +59,7 @@ My [CV in Pdf](https://github.com/Amith-shivaramu/Amith_Portfolio/blob/main/Amit
 
    -[POWER BI](https://github.com/Amith-shivaramu/Certifications/blob/main/Power%20BI%20Certificate.pdf)
 
+## CONTACT
+
+- Email: amithshivaramu.08@gmail.com
+- Linkedin: www.linkedin.com/in/amith-s-
